@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#mejorando-los-sistemas-de-control-de-acceso-con-accesorios-vers%c3%a1tiles&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#mejorando-los-sistemas-de-control-de-acceso-con-accesorios-vers%c3%a1tiles&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,7 +40,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a1reas-innovadoras-de-aplicaci%c3%b3n-para-la-gesti%c3%b3n-de-seguridad-y-acceso&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%c3%a1reas-innovadoras-de-aplicaci%c3%b3n-para-la-gesti%c3%b3n-de-seguridad-y-acceso&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -58,7 +60,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#conectando-con-chiyu-technology-experiencia-y-soporte&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#conectando-con-chiyu-technology-experiencia-y-soporte&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -77,7 +80,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#dispositivos-avanzados-de-control-de-acceso-biom%c3%a9trico&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#dispositivos-avanzados-de-control-de-acceso-biom%c3%a9trico&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -96,7 +100,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#elevando-la-seguridad-y-la-eficiencia-soluciones-de-controlador-de-ascensor&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#elevando-la-seguridad-y-la-eficiencia-soluciones-de-controlador-de-ascensor&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -115,7 +120,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#controladores-digitales-io-soluciones-flexibles-para-acceso-y-automatizaci%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#controladores-digitales-io-soluciones-flexibles-para-acceso-y-automatizaci%c3%b3n&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -134,7 +140,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#soluciones-de-comunicaci%c3%b3n-serial-para-la-integraci%c3%b3n-moderna&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#soluciones-de-comunicaci%c3%b3n-serial-para-la-integraci%c3%b3n-moderna&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -153,7 +160,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#garant%c3%ada-de-cumplimiento-del-ndaa-en-todas-las-l%c3%adneas-de-producto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#garant%c3%ada-de-cumplimiento-del-ndaa-en-todas-las-l%c3%adneas-de-producto&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -163,9 +171,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Cumplimiento del NDAA&#34; src=&#34;https://www.chiyu-tech.com/storage/media/news/NDAA.png&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Cumplimiento del NDAA&#34; src=&#34;https://www.chiyu-tech.com/storage/media/news/NDAA.png&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -184,7 +191,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#desarrollo-sostenible-en-el-n%c3%bacleo-de-las-operaciones-empresariales&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#desarrollo-sostenible-en-el-n%c3%bacleo-de-las-operaciones-empresariales&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -203,7 +211,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#enfoque-para-el-control-de-acceso-seguro-y-cumplimiento-del-gdpr&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#enfoque-para-el-control-de-acceso-seguro-y-cumplimiento-del-gdpr&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -222,7 +231,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#explorando-soluciones-avanzadas-de-hardware-para-control-de-acceso&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#explorando-soluciones-avanzadas-de-hardware-para-control-de-acceso&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -241,15 +251,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#colaboraci%c3%b3n-para-una-integraci%c3%b3n-avanzada-de-seguridad&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#colaboraci%c3%b3n-para-una-integraci%c3%b3n-avanzada-de-seguridad&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Chiyu Technology se complace en anunciar una alianza estratégica con &lt;a
-  href=&#34;https://www.vivotek.com/&#34;
-    target=&#34;_blank&#34;
-  &gt;VIVOTEK&lt;/a&gt;
-, uniendo experiencia en control de acceso y vigilancia IP para ofrecer una solución de seguridad integral e integrada. Esta asociación está destinada a mejorar las capacidades de ambas compañías, permitiendo la gestión centralizada de sistemas de seguridad en diversas industrias.&lt;/p&gt;</description>
+&lt;p&gt;Chiyu Technology se complace en anunciar una alianza estratégica con &lt;a href=&#34;https://www.vivotek.com/&#34; target=&#34;_blank&#34;&gt;VIVOTEK&lt;/a&gt;, uniendo experiencia en control de acceso y vigilancia IP para ofrecer una solución de seguridad integral e integrada. Esta asociación está destinada a mejorar las capacidades de ambas compañías, permitiendo la gestión centralizada de sistemas de seguridad en diversas industrias.&lt;/p&gt;</description>
       
     </item>
     
@@ -264,7 +271,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#soluciones-avanzadas-de-lectores-de-control-de-acceso-para-seguridad-moderna&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#soluciones-avanzadas-de-lectores-de-control-de-acceso-para-seguridad-moderna&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -283,7 +291,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#gesti%c3%b3n-avanzada-de-accesos-con-paneles-de-control-de-puertas&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#gesti%c3%b3n-avanzada-de-accesos-con-paneles-de-control-de-puertas&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -302,7 +311,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#innovaci%c3%b3n-en-control-de-acceso-e-integraci%c3%b3n-de-seguridad&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#innovaci%c3%b3n-en-control-de-acceso-e-integraci%c3%b3n-de-seguridad&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -321,7 +331,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#controladores-de-proximidad-y-acceso-a-puertas-con-rfid-tecnolog%c3%ada-y-soluciones&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#controladores-de-proximidad-y-acceso-a-puertas-con-rfid-tecnolog%c3%ada-y-soluciones&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -340,7 +351,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#potenciando-el-control-de-acceso-con-software-avanzado&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#potenciando-el-control-de-acceso-con-software-avanzado&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -359,7 +371,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#soluciones-de-software-integradas-para-la-gesti%c3%b3n-de-seguridad-y-asistencia&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#soluciones-de-software-integradas-para-la-gesti%c3%b3n-de-seguridad-y-asistencia&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;

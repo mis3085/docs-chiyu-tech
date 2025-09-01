@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#am%c3%a9liorer-les-syst%c3%a8mes-de-contr%c3%b4le-dacc%c3%a8s-avec-des-accessoires-polyvalents&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#am%c3%a9liorer-les-syst%c3%a8mes-de-contr%c3%b4le-dacc%c3%a8s-avec-des-accessoires-polyvalents&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,7 +40,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#domaines-dapplication-innovants-pour-la-s%c3%a9curit%c3%a9-et-la-gestion-des-acc%c3%a8s&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#domaines-dapplication-innovants-pour-la-s%c3%a9curit%c3%a9-et-la-gestion-des-acc%c3%a8s&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -58,7 +60,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#assurance-de-la-conformit%c3%a9-ndaa-sur-toutes-les-gammes-de-produits&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#assurance-de-la-conformit%c3%a9-ndaa-sur-toutes-les-gammes-de-produits&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -68,9 +71,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Conformité NDAA&#34; src=&#34;https://www.chiyu-tech.com/storage/media/news/NDAA.png&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Conformité NDAA&#34; src=&#34;https://www.chiyu-tech.com/storage/media/news/NDAA.png&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -89,7 +91,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#se-connecter-avec-chiyu-technology--expertise-et-support&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#se-connecter-avec-chiyu-technology--expertise-et-support&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -108,7 +111,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#appareils-avanc%c3%a9s-de-contr%c3%b4le-dacc%c3%a8s-biom%c3%a9trique&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#appareils-avanc%c3%a9s-de-contr%c3%b4le-dacc%c3%a8s-biom%c3%a9trique&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -127,7 +131,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#s%c3%a9curit%c3%a9-et-efficacit%c3%a9-accrues--solutions-de-contr%c3%b4leur-dascenseur&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#s%c3%a9curit%c3%a9-et-efficacit%c3%a9-accrues--solutions-de-contr%c3%b4leur-dascenseur&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -146,7 +151,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#contr%c3%b4leurs-io-num%c3%a9riques--solutions-flexibles-pour-lacc%c3%a8s-et-lautomatisation&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#contr%c3%b4leurs-io-num%c3%a9riques--solutions-flexibles-pour-lacc%c3%a8s-et-lautomatisation&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -165,7 +171,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-de-communication-s%c3%a9rie-pour-lint%c3%a9gration-moderne&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-de-communication-s%c3%a9rie-pour-lint%c3%a9gration-moderne&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -184,7 +191,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#le-d%c3%a9veloppement-durable-au-c%c5%93ur-des-op%c3%a9rations-commerciales&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#le-d%c3%a9veloppement-durable-au-c%c5%93ur-des-op%c3%a9rations-commerciales&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -203,15 +211,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#collaboration-pour-une-int%c3%a9gration-avanc%c3%a9e-de-la-s%c3%a9curit%c3%a9&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#collaboration-pour-une-int%c3%a9gration-avanc%c3%a9e-de-la-s%c3%a9curit%c3%a9&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Chiyu Technology est heureux d&amp;rsquo;annoncer une alliance stratégique avec &lt;a
-  href=&#34;https://www.vivotek.com/&#34;
-    target=&#34;_blank&#34;
-  &gt;VIVOTEK&lt;/a&gt;
-, réunissant une expertise en contrôle d&amp;rsquo;accès et en vidéosurveillance IP pour offrir une solution de sécurité intégrée et complète. Ce partenariat vise à renforcer les capacités des deux entreprises, permettant une gestion centralisée des systèmes de sécurité dans divers secteurs.&lt;/p&gt;</description>
+&lt;p&gt;Chiyu Technology est heureux d&amp;rsquo;annoncer une alliance stratégique avec &lt;a href=&#34;https://www.vivotek.com/&#34; target=&#34;_blank&#34;&gt;VIVOTEK&lt;/a&gt;, réunissant une expertise en contrôle d&amp;rsquo;accès et en vidéosurveillance IP pour offrir une solution de sécurité intégrée et complète. Ce partenariat vise à renforcer les capacités des deux entreprises, permettant une gestion centralisée des systèmes de sécurité dans divers secteurs.&lt;/p&gt;</description>
       
     </item>
     
@@ -226,7 +231,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-avanc%c3%a9es-de-lecteurs-de-contr%c3%b4le-dacc%c3%a8s-pour-une-s%c3%a9curit%c3%a9-moderne&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-avanc%c3%a9es-de-lecteurs-de-contr%c3%b4le-dacc%c3%a8s-pour-une-s%c3%a9curit%c3%a9-moderne&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -245,7 +251,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#renforcer-le-contr%c3%b4le-dacc%c3%a8s-avec-des-logiciels-avanc%c3%a9s&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#renforcer-le-contr%c3%b4le-dacc%c3%a8s-avec-des-logiciels-avanc%c3%a9s&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -264,7 +271,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#exploration-des-solutions-mat%c3%a9rielles-avanc%c3%a9es-de-contr%c3%b4le-dacc%c3%a8s&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploration-des-solutions-mat%c3%a9rielles-avanc%c3%a9es-de-contr%c3%b4le-dacc%c3%a8s&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -283,7 +291,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#gestion-avanc%c3%a9e-des-acc%c3%a8s-avec-les-panneaux-de-contr%c3%b4le-de-porte&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#gestion-avanc%c3%a9e-des-acc%c3%a8s-avec-les-panneaux-de-contr%c3%b4le-de-porte&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -302,7 +311,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#innovation-dans-le-contr%c3%b4le-dacc%c3%a8s-et-lint%c3%a9gration-de-la-s%c3%a9curit%c3%a9&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#innovation-dans-le-contr%c3%b4le-dacc%c3%a8s-et-lint%c3%a9gration-de-la-s%c3%a9curit%c3%a9&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -321,7 +331,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#approche-du-contr%c3%b4le-dacc%c3%a8s-s%c3%a9curis%c3%a9-et-conformit%c3%a9-au-rgpd&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#approche-du-contr%c3%b4le-dacc%c3%a8s-s%c3%a9curis%c3%a9-et-conformit%c3%a9-au-rgpd&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -340,7 +351,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-logicielles-int%c3%a9gr%c3%a9es-pour-la-gestion-de-la-s%c3%a9curit%c3%a9-et-du-pointage&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-logicielles-int%c3%a9gr%c3%a9es-pour-la-gestion-de-la-s%c3%a9curit%c3%a9-et-du-pointage&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -359,7 +371,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#contr%c3%b4leurs-de-proximit%c3%a9-et-acc%c3%a8s-aux-portes-rfid--technologie-et-solutions&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#contr%c3%b4leurs-de-proximit%c3%a9-et-acc%c3%a8s-aux-portes-rfid--technologie-et-solutions&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
